@@ -1,0 +1,27 @@
+{
+    "name": "Aplicacion Cotizador Portales",
+    "version": "1.0.0",
+    "homepage": "https://proyectos.aiko.com.mx/Cotizador/",
+    "type": "web",
+    "description": "Sistema para la administración de cotizaciones con integracion a SAE",
+    "authors": [
+      {
+        "name": "Eduardo",
+        "email": "ebecerril@aiko.com.mx",
+        "role": "Programador"
+      },
+      {
+        "name": "Gilberto",
+        "email": "ggarfias@aiko.com.mx",
+        "role": "Programador"
+      }
+    ],
+    "require": {
+      "php": ">=5.6.0"
+    },
+    "autoload": {
+      "classmap": [
+        "config"
+      ]
+    }
+}
